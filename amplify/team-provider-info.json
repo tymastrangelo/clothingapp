@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyf1828bbc77c14-staging-190132-authRole",
+      "UnauthRoleArn": "arn:aws:iam::589744011859:role/amplify-amplifyf1828bbc77c14-staging-190132-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::589744011859:role/amplify-amplifyf1828bbc77c14-staging-190132-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyf1828bbc77c14-staging-190132-deployment",
+      "UnauthRoleName": "amplify-amplifyf1828bbc77c14-staging-190132-unauthRole",
+      "StackName": "amplify-amplifyf1828bbc77c14-staging-190132",
+      "StackId": "arn:aws:cloudformation:us-east-1:589744011859:stack/amplify-amplifyf1828bbc77c14-staging-190132/599036b0-a4ea-11ee-a00e-12ba8a29d32f",
+      "AmplifyAppId": "dntwyc854sn37"
+    },
+    "categories": {
+      "auth": {
+        "clothingapp73cd8d5c": {}
+      }
+    }
+  }
+}
